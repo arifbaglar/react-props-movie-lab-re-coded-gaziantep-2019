@@ -43,7 +43,7 @@ MovieCard.defaultProps = {
   title: 'Unknown',
   IMDBRating: null,
   genres: 'No Genres(s) Found',
-  poster: posterMap.default,
+  poster: default,
 }
 
 // Don't forget your default props!
